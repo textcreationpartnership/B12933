@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation for a generall fast throughout this realme of England.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12933</idno><idno type="EEBO-CITATION">99892588</idno>
+  <idno type="VID">185662</idno>
+  <idno type="EEBO-PROQUEST">2240922905</idno>
+  
+            <idno type="STC">STC 8833</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.11[72]</idno>
+            <idno type="PROQUEST">ocm99892588</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892588e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12933)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185662)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:2[73])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation for a generall fast throughout this realme of England.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets.   </extent>
+               <publicationStmt>
+                  <publisher>by Bonham Norton and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>M.DC.XXVI. [1626]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: White-Hall, the thirtieth day of Iune, in the second yeere of His Maiesties reigne ..</note>
+                  <note>Imprint from colophon.</note>
+                  <note>This state has arms 21 (with "C R" at top); Steele notation: of rect 2) inclina- iustly.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fasts and feasts --  England --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185662:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <p>
+                     <label>C R</label>
+                  </p>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>¶ A Proclamation for a generall Fast throughout this Realme of England.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He fresh memory of the late fearefull visitation of the Plague, as in many other places and parts of this Realme, so espe<g ref="char:EOLhyphen"/>cially in and about the Cities of <hi>London</hi> and <hi>Westminster,</hi> and places adiacent, and the spreading thereof in many parts of this Kingdome at this time, ought to moue vs to consider, that it was, and is the im<g ref="char:EOLhyphen"/>mediate hand of God for the sinnes of this Land, so to visite and cor<g ref="char:EOLhyphen"/>rect his people; And againe, the contemplation of the infinite good<g ref="char:EOLhyphen"/>nesse of God, so vnexpectedly to heale this great and populous Citie (the seate of this Empire) ought to draw vs to a due and thankefull acknowledgement of so great a deliuerance: The re<g ref="char:EOLhyphen"/>membrance of the scarcitie and famine lately threatned vnto vs in all the borders of this Land, ought to humble vs. And the blessing of God vpon the fruits of the earth in the time of our greatest distresse, ought to stirre vp our thankefulnesse vnto that diuine Maiesty, who was the giuer of these blessings: The present estate of his Maiesties Dominions, and of His friends and Allies imbarked in a warre, with a potent and vigilant enemy, setting Vs in an open Hostilitie abroad, and threatning vs with a powerfull inuasion at home, ought to perswade vs, not onely to a timely preparation for all things necessary for a defensiue warre, but also to looke vp to Him, whose prouidence gouernes, and whose power ruleth all things vpon earth: And our former deliuerances in like distresses, ought to raise our thoughts, not to neglect the ordinary meanes, and yet to trust in him onely who is the Lord of hostes, and who alone can deliuer in times of danger: These Pious and Religious considerations haue so wrought in the Princely heart of the Kings most excellent Maiestie, That He hath not onely had recourse to that great and Di<g ref="char:EOLhyphen"/>uine Maiestie, who is the King of kings, in His priuate deuotions, to implore his mercie and fa<g ref="char:EOLhyphen"/>uour to himselfe and His people; But according to the example of all good Kings in former ages in the times of common calamities, which equally concerne both Prince and people, to command a solemne, a generall, and a publike Fast throughout all this whole Land, wherein the whole Kingdome (as one man) may present to God their hearty and vnfained thankes for His benefits already receiued, and may powre out their supplications with strong cryes vnto Him, to send a blessing vpon our endeauours, and to diuert those punishments from vs, which the sinnes of this Land haue worthily deserued.</p>
+            <pb facs="tcp:185662:2"/>
+            <p>To this purpose, His most Excellent Maiestie, (moued therunto, the rather by the good inclina<g ref="char:EOLhyphen"/>tion of the Commons House of Parliament, lately assembled, who being the representatiue Body of this Realme, and best knowing the necessities of them all, did intimate their desire thereof) hath consulted with His reuerend Bishops, and resolued vpon a graue and religious forme of solem<g ref="char:EOLhyphen"/>nizing thereof, Which His Royall Pleasure He doth hereby publish and declare to all His louing Subiects, And doth straitly charge and command, That on Wednesday next, being the fift day of Iuly, this Fast be religiously and solemnly obserued and celebrated in the Cities of <hi>London</hi> and <hi>Westminster,</hi> and places adiacent, wherein His Maiestie in His Royall Person, and with His owne family and Royall houshold, will giue an example to the rest of His people. And that on that day moneth, being the second of August, the like the kept and duly obserued, thorowout the rest of this whole Realme of <hi>England</hi> and Dominion of <hi>Wales.</hi> And for the more orderly solemnizing thereof without confusion, His Maiestie, by the aduice of His Reuerend Bishops, hath directed to be Composed, Printed, and Published, the forme of such Prayers and publike Exhortations, as He thinketh fit to be vsed in all Churches and places at these publike meetings. And Hee hath giuen charge to His Bishops to disperse the same thorowout His whole Kingdome. All which, His Maiestie doth expresly charge and command, shall be reuerently and deuoutly performed by all His louing Subiects, as they tender the fauour of Almighty God, and would auoide his iust indignation against this Land; and vpon paine of such punishments, as His Maiestie can iustly inflict vpon all such, as shall contemne, or neglect so religious a Worke.</p>
+            <closer>
+               <dateline>Giuen at His Maiesties Court at White-Hall, <date>the thirtieth day of Iune, in the second yeere of His Maiesties Reigne of Great Britaine, France, and Ireland.</date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton and Iohn Bill, Printers to the Kings most Excellent Maiestie. M.DC.XXVI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
